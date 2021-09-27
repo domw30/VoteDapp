@@ -1,2 +1,1 @@
 # VoteDapp
-Voting Dapp
