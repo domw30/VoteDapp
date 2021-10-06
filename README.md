@@ -18,7 +18,7 @@ Install these prerequisites to follow along with the tutorial. See free video tu
 ## Step 2. Install dependencies
 
 ```
-$ cd election
+$ cd votedapp
 $ npm install
 ```
 
