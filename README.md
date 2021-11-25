@@ -1,6 +1,6 @@
 # VoteDapp
 
-Messing around with DAPPs - Inspired by Dapp University(Gregory McCubbin)
+Messing around with DAPPs - Inspired by Dapp University(Gregory McCubbin) 
 
 ## Dependencies
 
